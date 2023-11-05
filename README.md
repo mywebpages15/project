@@ -1,1 +1,36 @@
-# project
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <h1> Messi is the best footballer in the world ! </h1> 
+   <h4> Messi's description </h4>
+    <p> Lionel Messi is an Argentine footballer widely considered one of the greatest football players of all time. He was born on June 24, 1987, in Rosario, Argentina. </p>
+  <img src="https://www.si.com/.image/t_share/MTY4MTAyNTc3MjA4NzYzNjY1/1992-94-lionel-messi-childhoodjpg.jpg" alt="Messi when he was a child" width="200px">
+   <p>Messi is primarily known for his outstanding career at FC Barcelona, where he spent the majority of his professional career. </p>
+   <img src="https://midia.gruposinos.com.br/_midias/jpg/2020/08/30/barcelona-19160237.jpg" alt="Messi when he was a child" width="200px">
+
+  <h4> Messi's carrer </h4>
+  <main> Messi has won numerous trophies throughout his career
+    <ul>
+      <li> many La Liga and UEFA Champions League titles with FC Barcelona </li>
+      <li> Regarding the Ballon d'Or, Lionel Messi holds a record by winning this prestigious award 8 times. </li>
+      <li> He was the goat of the WC in 2023 </li>
+    </ul>
+  </main>
+  <img src="https://inter-lignes.com/wp-content/uploads/2023/10/Leo-Messi.jpeg" alt="ballon d'or 2023" width="200px">
+  
+  <footer>for more informations about Leo Messi you can check this web site 
+    <a href="https://fr.wikipedia.org/wiki/Lionel_Messi">LIONEL MESSI</a>
+  </footer>
+  
+    
+</body>
+
+</html>
